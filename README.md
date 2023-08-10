@@ -6,4 +6,4 @@
 # Contact
 [![naver](https://img.shields.io/badge/naver-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white&link=mailto:jysowoqj@naver.com)](mailto:jysowoqj@naver.com)
 ![discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
-### My discord id is 'mynameisminjun'
+#### My discord id is 'mynameisminjun'
