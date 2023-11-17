@@ -1,5 +1,6 @@
 # I'm MinJun
 ### Available Programming Languages
+### - Java, Python, Javascript, C#, Css, Html, Lua
 # My Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jysowoqj)](https://solved.ac/jysowoqj/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjunKR1&show_icons=true&theme=radical)
