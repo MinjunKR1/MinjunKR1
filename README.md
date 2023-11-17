@@ -1,7 +1,7 @@
 # I'm MinJun
 ### Available Programming Languages
   - Java, Python, Javascript, C#, Css, Html, Lua
-  - I'm Minecraft RPG Server, Server name is Zepick, The server link is at the bottom.
+  - I'm Minecraft RPG Server Owner, Server name is Zepick, The server link is at the bottom.
 # My Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jysowoqj)](https://solved.ac/jysowoqj/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjunKR1&show_icons=true&theme=radical)
