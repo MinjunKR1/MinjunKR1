@@ -1,5 +1,5 @@
 # Hello My Name is MinJun!
-### Available Programming Languages
+### Available Programming, Markup Languages
   -  Java, Python, Javascript, C#, Css, Html, Lua
   -  I'm Minecraft RPG Server Head Admin or Owner, Server name is Zepick, The server link is at the bottom.
 # My Stats
