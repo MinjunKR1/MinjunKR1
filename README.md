@@ -1,6 +1,6 @@
 # Hello My Name is MinJunKR1!
 
-  -  Java, Python, Javascript, C#, Css, Html, Lua, Assembly, React, Nodejs, SQL
+  Java, Python, Javascript, C#, Css, Html, Lua, Assembly, React, Nodejs, SQL
 
   -  ZEPICK GROUP ONWER
 
