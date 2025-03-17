@@ -8,8 +8,7 @@ Java, Python, Javascript, C#, Css, Html, Lua, Assembly, Nodejs, SQL
 
 ### 아래 활동 개발합니다.
 
-  -  ZEPICK KOREA 대표
-  - https://zepick.kr
+  -  ZEPICK KOREA 대표 (https://zepick.kr)
 
   -  마크 플러그인 개발
   -  디스코드 봇 개발
