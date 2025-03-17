@@ -1,6 +1,6 @@
 https://minjun.zepick.kr
 
-# 개발합니다. 디자인 못합니다.
+## 개발합니다. 디자인 못합니다.
 
 아래 언어로 개발합니다.
   Java, Python, Javascript, C#, Css, Html, Lua, Assembly, Nodejs, SQL
