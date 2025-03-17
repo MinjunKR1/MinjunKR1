@@ -6,6 +6,8 @@ https://minjun.zepick.kr
 
 Java, Python, Javascript, C#, Css, Html, Lua, Assembly, Nodejs, SQL
 
+아래 활동 개발합니다.
+
   -  ZEPICK KOREA 대표
      https://zepick.kr
 
